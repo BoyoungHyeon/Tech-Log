@@ -1,5 +1,5 @@
-# Tech-Log
-Computer Science 💻✏  
+# 💻 Tech-Log
+Computer Science ✏  
 신입 개발자로서 면접 준비와 전공 지식을 위한 지식 보관함 입니다.  
 
 ## Web Study ✏
